@@ -161,7 +161,7 @@ This script, located at ${bold}https://rpm.nodesource.com/setup${normal}, used t
 setup() {
 
 script_deprecation_warning
-node_deprecation_warning
+# node_deprecation_warning
 
 print_status "Installing the NodeSource ${NODENAME} repo..."
 
